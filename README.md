@@ -5,4 +5,4 @@ In this project, we used Particle Filter algorithm to localize our Vector robot 
 * controllerv2.py: Has the Robot class with similar methods to the simulator class for the real robot.
 * partile_filter.py: The particle filter class that initiates random particles, moves robot and particles, reads their laser, calculates particle weights, and resamples particles. For resampling we used augmented Monte Carlo for addressing kidnapping.
 <br />Videos of results are uploaded to this repository.
-<video src='https://github.com/BanafshehKarimian/RobotLocalization/blob/main/result2merged.mp4' width=180/>
+<video src=https://github.com/BanafshehKarimian/RobotLocalization/blob/main/result2merged.mp4 width=180/>
